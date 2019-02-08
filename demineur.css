@@ -1,0 +1,70 @@
+ body {
+	 margin : 0;
+ }
+ 
+ table {
+	 border-collapse : collapse;
+	 margin : 30px auto 0;
+ }
+ 
+ td {
+	 width : 30px;
+	 height : 30px;
+ }
+ 
+ h1 {
+	 text-align : center;
+ }
+ 
+ .cache{
+	 background-image : url("./images/cache.png");
+ }
+ 
+ .bomb{
+	 background-image : url("./images/bombe.png");
+ }
+ 
+ .vide{
+	 background-image : url("./images/vide.png");
+ }
+ 
+ .un{
+	 background-image : url("./images/un.png");
+ }
+ 
+ .deux{
+	 background-image : url("./images/deux.png");
+ }
+ 
+ .trois{
+	 background-image : url("./images/trois.png");
+ }
+ 
+ .quatre{
+	 background-image : url("./images/quatre.png");
+ }
+ 
+ .cinq{
+	 background-image : url("./images/cinq.png");
+ }
+ 
+ .marque{
+	background-image : url("./images/marque.png"); 
+ }
+ 
+ .boum{
+	background-image : url("./images/boum.png");
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
